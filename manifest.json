@@ -2,7 +2,8 @@
 {
     "name": "積分計算演習",
     "short_name": "積分演習",
-    "start_url": "/",
+    "start_url": "./index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#f1f5f9",
     "theme_color": "#4f46e5",
